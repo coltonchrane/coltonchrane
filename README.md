@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coltonchrane
 - 👀 I’m interested in data and full stack development!
-- 🌱 I’m currently learning more about Linux and strengthening my developing skills into a more full stack skillset.
-- 💞️ I’m looking to collaborate on projects to help develop my portfolio. My primary interest is databases and working with them programatically.
+- 🌱 I’m currently learning more about Linux, cloud computing, and JavaScript.
+- 💞️ I’m looking to collaborate on projects to help develop my portfolio. My primary interest is business intelligence and solutions.
 - 📫 Reach out to me on Github or Twitter @ctcman123
 
 <!---
